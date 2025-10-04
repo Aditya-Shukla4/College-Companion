@@ -16,11 +16,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React + Tailwind CSS  
-- **Backend:** Node.js + Express  
-- **Database:** MongoDB  
-- **Auth:** JWT + OAuth (Google)  
-- **Hosting:** Vercel / Render  
+- **Frontend:** Html, CSS, Javascript
+- **AI-used** Gemini, ChatGPT  
 
 ---
 
